@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:#07111f;
+  color:white;
+  font-family:Arial,sans-serif;
+}
+
+a{
+  color:#2dd4bf;
+  text-decoration:none;
+}
